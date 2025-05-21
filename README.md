@@ -1,2 +1,3 @@
-# css_grid_exercises
-Mastering css grid
+# CSS Grid Exercises
+
+Learn SCC grid by examples
